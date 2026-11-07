@@ -63,6 +63,31 @@
     
 ```Shell
 git status
+git branch
+git switch
+git branch -D
+git log
+git revert
+git reset --hard
+git push
+git config
+git add
+git restore
+git merge
+git remote
+git clone
+git pull
+```
+
+11. История коммитов
+
+```Shell
+caa8c79 - Thu Nov 5 12:20:28 2026 +0300 | 4515_Меньшиков_М_П: Edit Base files
+985b1b3 - Thu Nov 5 12:18:25 2026 +0300 | 4515_Меньшиков_М_П: Text1.txt
+838212e - Thu Nov 5 10:56:34 2026 +0300 | Matvey: Create New_file.txt
+921f53b - Sat Nov 21 20:09:49 2020 +0300 | Kurtyanik: Обновление информации
+c08a654 - Sat Nov 21 20:02:16 2020 +0300 | Kurtyanik: Файл создан пустым
+3c6e913 - Sat Nov 21 19:58:20 2020 +0300 | Kurtyanik: Initial commit
 ```
 
 Выводы
