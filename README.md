@@ -77,6 +77,7 @@ git merge
 git remote
 git clone
 git pull
+git log --pretty=format:"%h | %ad | %an | %s" --date=short
 ```
 
 11. История коммитов
